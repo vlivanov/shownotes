@@ -13,4 +13,5 @@ In this episode we spoke about how DevOps is done (or not really done) in the wo
  
 == Links
 
-_TBD_
+https://mobiusconf.com/en/cfp/[Mobius CFP]
+Mobius Conf Promocode: TBD
